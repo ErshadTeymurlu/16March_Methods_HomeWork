@@ -22,12 +22,11 @@ namespace _16March_Methods
         /// Calculates area of a circle.
         /// </summary>
         /// <param name="r">represents radius of a circle</param>
-        /// <param name="p">represents p value</param>
         /// <returns>Area of the circule</returns>
         #endregion
-        static int CalculateArea(int r,double p = 3)
+        static int CalculateArea(int r)
         {
-            int s;
+            int s, p = 3;
             s = (int)p * r;
             return s;
         }
