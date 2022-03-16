@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\16March_Methods\bin\Debug\16March_Methods.exe.config
+C:\Users\HP\source\repos\16March_Methods\bin\Debug\16March_Methods.exe
+C:\Users\HP\source\repos\16March_Methods\bin\Debug\16March_Methods.pdb
+C:\Users\HP\source\repos\16March_Methods\obj\Debug\16March_Methods.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\16March_Methods\obj\Debug\16March_Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\16March_Methods\obj\Debug\16March_Methods.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\16March_Methods\obj\Debug\16March_Methods.exe
+C:\Users\HP\source\repos\16March_Methods\obj\Debug\16March_Methods.pdb
